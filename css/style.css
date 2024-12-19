@@ -68,18 +68,6 @@ span.strike {
    z-index: 1000;
 }
 /* Website Body */
-header {
-   width: 100vw;
-   height: var(--header-height);
-   background-color: var(--theme-color-light);
-}
-marquee {
-   margin: 0;
-   background: repeating-linear-gradient(45deg, yellow 0%, yellow 1%, black 1%, black 2%);
-   color: white;
-   font-weight: bold;
-   text-shadow: 2px 2px 1px black;
-}
 #main-content {
    display: flex;
    align-items: center;
